@@ -1,0 +1,22 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Output directory filters (keeps directory clean on git, ignores actual runtime scan results)
+output/*.txt
+output/*.json
+output/*.sh
+!output/.gitkeep
+
+# Environments and configs
+.venv/
+venv/
+ENV/
+env/
+.idea/
+.vscode/
