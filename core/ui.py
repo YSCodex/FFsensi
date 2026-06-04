@@ -10,7 +10,7 @@ _W = "\033[97m" # White
 
 def print_banner() -> None:
     print(f"""{_C}{_B}┌──────────────────────────────────────────────────┐
-│  {_W}YS SENSI ENGINE v2.5{_C}                            │
+│  {_W}YS SENSI ENGINE v1.0{_C}                            │
 │  {_W}Advanced Device Benchmarking & Sensi Tuner{_C}      │
 ├──────────────────────────────────────────────────┤
 │  {_Y}Owner:{_R} {_W}@ysyuvrajyt (Instagram){_C}                  │
